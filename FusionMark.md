@@ -1,0 +1,22 @@
+# FusionMark
+The official code for the paper "FusionMark."
+
+# Introduction
+A preliminary version of the official FusionMark implementation.
+
+# Watermarking Performance
+
+## Visual Quality && Robustness
+
+![FM-robustness_panel_01](C:\Users\Administrator\Desktop\FM-robustness_panel_01.png)
+
+# Checkpoints
+Coming soon.
+
+# Datasets
+The datasets used in this paper are from [COCO]([COCO - Common Objects in Context](https://cocodataset.org/#home))
+
+# Acknowledgement
+This code is mainly based on the previous works
+[Stable signature](https://github.com/facebookresearch/stable_signature),
+[Videoseal](https://github.com/facebookresearch/videoseal).

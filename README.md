@@ -1,4 +1,4 @@
-# FusionMark
+<img width="6099" height="3416" alt="image" src="https://github.com/user-attachments/assets/9cc3dddd-e8d3-4a9b-94db-3b85ec1b93d8" /># FusionMark
 
 The official code for the paper "FusionMark."
 
@@ -9,7 +9,7 @@ A preliminary version of the official FusionMark implementation.
 # Watermarking Performance
 
 ## Visual Quality && Robustness
-
+<img width="6099" height="3416" alt="FM-robustness_panel_01" src="https://github.com/user-attachments/assets/9dfa4e7d-d954-496c-9249-258e884f1520" />
 
 
 # Checkpoints

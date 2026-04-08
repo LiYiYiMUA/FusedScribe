@@ -18,7 +18,7 @@ Coming soon.
 
 # Datasets
 
-The datasets used in this paper are from [COCO]([COCO - Common Objects in Context](https://cocodataset.org/#home))
+The datasets used in this paper are from [COCO](https://cocodataset.org/#home)
 
 # Acknowledgement
 
